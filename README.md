@@ -490,4 +490,4 @@ agents reconnect and is intentionally not persisted.
 
 ---
 
-<sub>valky · crafted by [@spearh34d](https://github.com/spearh34d)</sub>
+<sub>valky · crafted by [sp34rh34d](https://github.com/sp34rh34d) - x @spearh34d</sub>
