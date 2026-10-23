@@ -491,3 +491,8 @@ agents reconnect and is intentionally not persisted.
 ---
 
 <sub>valky · crafted by [sp34rh34d](https://github.com/sp34rh34d) - x @spearh34d</sub>
+
+# Donation
+| BTC | XMR |
+| --- | --- |
+| <img width="225" height="225" alt="Captura de pantalla 2026-10-22 a la(s) 8 33 56 p  m" src="https://github.com/user-attachments/assets/261cf90c-6fb7-4508-bab7-05db1cd8aded" /> | <img width="225" height="225" alt="Captura de pantalla 2026-10-22 a la(s) 8 32 53 p  m" src="https://github.com/user-attachments/assets/7a0aef45-7fa9-469c-bd81-faab826336e6" /> |
